@@ -1,0 +1,1 @@
+Letakkan file CV PDF kamu di folder public dan beri nama cv.pdf agar tombol Resume dan Download CV berfungsi.
